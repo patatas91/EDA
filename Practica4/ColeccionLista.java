@@ -1,8 +1,7 @@
 package Practica4;
 
 /*
- * AUTORES: MIGUEL ALLUE BARON     - NIP: 593599
- * 			CRISTIAN SIMON MORENO  - NIP: 611487
+ * AUTOR:CRISTIAN SIMON MORENO  - NIP: 611487
  */
 public class ColeccionLista<Id extends Comparable<Id>, In> implements
 		Coleccion<Id, In> {

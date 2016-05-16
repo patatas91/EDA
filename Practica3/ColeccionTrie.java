@@ -1,8 +1,7 @@
 package Practica3;
 
 /*
- * AUTORES: MIGUEL ALLUE BARON     - NIP: 593599
- * 			CRISTIAN SIMON MORENO  - NIP: 611487
+ * AUTOR:CRISTIAN SIMON MORENO  - NIP: 611487
  */
 public class ColeccionTrie<In> implements Coleccion<String, In> {
 

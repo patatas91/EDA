@@ -10,8 +10,7 @@ import java.util.Scanner;
 
 
 /*
- * AUTORES: MIGUEL ALLUE BARON     - NIP: 593599
- * 			CRISTIAN SIMON MORENO  - NIP: 611487
+ * AUTOR:CRISTIAN SIMON MORENO  - NIP: 611487
  */
 public class LectorComandos {
 
