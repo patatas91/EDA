@@ -1,0 +1,31 @@
+Introduciendo 1000 elementos en colecciones...
+Prueba 10000 busquedas sobre 1000 elementos.
+   Tiempo para class tads.colecciones.ColeccionABB: 95 ms.
+   Tiempo para class tads.colecciones.ColeccionHash: 7 ms.
+
+Introduciendo 10000 elementos en colecciones...
+Prueba 10000 busquedas sobre 10000 elementos.
+   Tiempo para class tads.colecciones.ColeccionABB: 112 ms.
+   Tiempo para class tads.colecciones.ColeccionHash: 2 ms.
+
+Introduciendo 100000 elementos en colecciones...
+Prueba 10000 busquedas sobre 100000 elementos.
+   Tiempo para class tads.colecciones.ColeccionABB: 87 ms.
+   Tiempo para class tads.colecciones.ColeccionHash: 31 ms.
+   
+-------
+
+Introduciendo 1000 elementos en colecciones...
+Prueba 10000 busquedas sobre 1000 elementos.
+   Tiempo para class tads.colecciones.ColeccionABB: 125 ms.
+   Tiempo para class tads.colecciones.ColeccionHash: 7 ms.
+
+Introduciendo 10000 elementos en colecciones...
+Prueba 10000 busquedas sobre 10000 elementos.
+   Tiempo para class tads.colecciones.ColeccionABB: 57 ms.
+   Tiempo para class tads.colecciones.ColeccionHash: 1 ms.
+
+Introduciendo 100000 elementos en colecciones...
+Prueba 10000 busquedas sobre 100000 elementos.
+   Tiempo para class tads.colecciones.ColeccionABB: 117 ms.
+   Tiempo para class tads.colecciones.ColeccionHash: 30 ms.
